@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap');
+
+body{
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 16px;;
+
+	
+	
+	
+	
+}
+.navbar-brand .img-fluid{
+	width:80px;
+
+
+	
+	}
+#mainNav{
+	background-color: #13565e;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 20px;
+	color: #CAA0AA;
+}
+.carousel-caption{
+	top: 30%;
+	}
+
+	
+
+#hero h1, 
+.carousel-caption h1{
+	color: #000000;
+	text-align: center;
+	font-size: 120px;
+	font-weight: 300px;
+	margin-top: 75px;
+	font-family: 'Dancing Script', cursive;
+}
+#hero h1 span,
+.carousel-caption h1 span{
+	display: block;
+		
+}
+
+#hero h3,
+.carousel-caption h3{
+	color:#000000;
+	font-size: 50px;
+	margin-top: 10px;
+	font-family: 'Dancing Script', cursive;
+	
+}
+
+	
+	
+
+#sec-acercade {
+	background-color: #13565e;
+	
+}
+#sec-acercade h1{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	font-size: 50px;
+	color: #CAA0AA;
+	
+	
+}
+#sec-acercade p{
+	text-align: justify;
+	font-size: 20px;
+	color: #CAA0AA;
+	margin-left: 30px;
+	margin-left: 20px;
+	margin-top: 60px;
+}
+#sec-acercade h3{
+	text-align: justify;
+	font-size: 23px;
+	color: #CAA0AA;
+	margin-left: 30px;
+	margin-left: 20px;
+	margin-top: 60px;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+}
+#sec-icono h1{
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+}
+#sec-icono h4{
+	font-size: 25px;
+	
+}
+
+#sec-icono h4{
+	font-size: 25px;
+	
+}
+#sec-icono .fa-camera-retro{
+	color:  #CAA0AA;
+	font-size: 30px;
+}
+#sec-icono .fa-file-audio{
+	color:  #CAA0AA;
+	font-size: 30px;
+}
+#sec-icono .fa-laptop{
+	color:  #CAA0AA;
+	font-size: 30px;
+}
+#sec-icono {
+	margin-right: 30px;
+	
+}	
+#sec-portafolio {
+	background-color: #CAA0AA;
+}
+#sec-portafolio h2{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	font-size: 50px;
+}
+#sec-portafolio h6{
+	
+	text-align: center;
+	font-size: 25px;
+}
+#contacto{
+	background-color: #13565e;
+	color: #CAA0AA;
+	font-size: 16px;
+}
+#contacto h2{
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+}
+#contacto .btn-verde{
+	background-color: #CAA0AA;
+}
+#footer{
+	text-align: center;
+	color: #CAA0AA;
+	background-color: #13565e;
+	font-size: 13px;
+}	
+.fa-facebook-f{
+	color: #CAA0AA;
+	font-size: 15px;
+}
+.fa-instagram{
+	color: #CAA0AA;
+	font-size: 15px;
+}
+.fa-twitter{
+	color: #CAA0AA;
+	font-size: 15px;
+}
